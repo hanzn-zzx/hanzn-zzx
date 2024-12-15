@@ -2,7 +2,7 @@
 This is Hanzn Chou on GitHub
 ## ⚡About ME⚡
 - I am **a student** in **Jiangxi, China**
-- Mainly useing: `LingmoOS`  `deepin`  `Manjaro`  `Anthon OS`
+- Mainly using: `LingmoOS`  `deepin`  `Manjaro`  `Anthon OS`
 - Junior frontend developer
 - Lingmo Wiki Editor
 - Administrator of Zen-Harmony Community
