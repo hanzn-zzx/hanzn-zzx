@@ -2,10 +2,9 @@
 This is Hanzn Chou on GitHub
 ## ⚡About ME⚡
 - I am **a student** in **Jiangxi, China**
-- Mainly using: `LingmoOS`  `deepin`  `Manjaro`  `Anthon OS`
+- Mainly using: `LingmoOS`  `deepin`  `AOSC OS`
 - Junior frontend developer
-- Lingmo Wiki Editor
-- Administrator of Zen-Harmony Community
+- Lingmo Wiki Editor, Administrator of Zen-Harmony Community
 ## ⚡How to Contact me⚡
 - QQ: 3801449040
 - Matrix: [@hanzn-zzx:mozilla.org](https://matrix.to/#/@hanzn-zzx:mozilla.org)
